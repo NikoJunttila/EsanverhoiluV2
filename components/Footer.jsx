@@ -21,10 +21,9 @@ const Footer = () => (
 
         <div className="items-center text-center gap-4">
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Esanverhoilu. All rights reserved.
+            Copyright © 2025 Esanverhoilu. All rights reserved.
           </p>
 
-         
         </div>
       </div>
     </div>

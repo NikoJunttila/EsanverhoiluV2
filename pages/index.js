@@ -1,9 +1,12 @@
-import { Footer, Navbar } from '../components';
+import { Footer, Navbar, FloatingBanner } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
 const Page = () => (
   <div className='bg-primary-black overflow-hidden'>
+    <FloatingBanner></FloatingBanner>
+    <div className='pt-9'>
     <Navbar />
+    </div>
     <Hero />
     <div className='relative'>
     <About />
