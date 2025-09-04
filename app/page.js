@@ -1,11 +1,10 @@
+//scuffed page no longer in use idk why its here or what it does. go to index.js
 import { Footer, Navbar, FloatingBanner } from '../components';
 import { About, Kuvat, Galleria, Palvelut, Hero, Yhteystiedot, Kankaat, Hinta } from '../sections';
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden relative">
-    <div>
-      xdd
-    </div>
+    
     <FloatingBanner />
     <Navbar />
     <Hero />
@@ -21,7 +20,6 @@ const Page = () => (
     </div>
     <Hinta />
     <div className="relative">
-      <Yhteystiedot />
     </div>
     <Galleria />
     <Footer />

@@ -23,7 +23,7 @@ const Yhteystiedot = () => (
     <p className="font-bold">Esan Verhoilu</p>
     Esa Junttila<br></br>
     Puhelinnumero: 040-8344202<br></br>
-    Osoite: Yliluomantie 5, 62160 Karhunkylä<br></br>
+    Osoite: Vatajantie 22, 62100 Lapua<br></br>
     Sähköposti: esa.tapani@anvianet.fi<br></br>
     <a className='text-blue-600' href="https://www.facebook.com/verhoomoesa/">Facebook</a><br></br>
     <p className="font-bold mt-3">Esan verhoilu avoinna sopimuksen mukaan, otathan etukäteen yhteyttä!</p>
